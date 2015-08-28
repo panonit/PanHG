@@ -1,0 +1,14 @@
+C:\HG\Tools\PanHG\PanHG\bin\x64\Debug\PanHG.exe
+C:\HG\Tools\PanHG\PanHG\bin\x64\Debug\PanHG.pdb
+C:\HG\Tools\PanHG\PanHG\obj\x64\Debug\PanHG.csprojResolveAssemblyReference.cache
+C:\HG\Tools\PanHG\PanHG\obj\x64\Debug\MainWindow.g.cs
+C:\HG\Tools\PanHG\PanHG\obj\x64\Debug\App.g.cs
+C:\HG\Tools\PanHG\PanHG\obj\x64\Debug\GeneratedInternalTypeHelper.g.cs
+C:\HG\Tools\PanHG\PanHG\obj\x64\Debug\PanHG_MarkupCompile.cache
+C:\HG\Tools\PanHG\PanHG\obj\x64\Debug\PanHG_MarkupCompile.lref
+C:\HG\Tools\PanHG\PanHG\obj\x64\Debug\MainWindow.baml
+C:\HG\Tools\PanHG\PanHG\obj\x64\Debug\PanHG.g.resources
+C:\HG\Tools\PanHG\PanHG\obj\x64\Debug\PanHG.Properties.Resources.resources
+C:\HG\Tools\PanHG\PanHG\obj\x64\Debug\PanHG.csproj.GenerateResource.Cache
+C:\HG\Tools\PanHG\PanHG\obj\x64\Debug\PanHG.exe
+C:\HG\Tools\PanHG\PanHG\obj\x64\Debug\PanHG.pdb

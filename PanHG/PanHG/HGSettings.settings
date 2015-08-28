@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="PanHG" GeneratedClassName="HGSettings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Username" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="LocalRepo" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\HG</Value>
+    </Setting>
+    <Setting Name="CloneRepo" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\HG</Value>
+    </Setting>
+    <Setting Name="CloneRepoList" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="UpdateRepoList" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>
